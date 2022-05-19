@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sentientprotocol.netlify.app/sitemap-index.xml
