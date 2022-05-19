@@ -515,10 +515,10 @@ export default (() => {
 					</Box>
 					<Box min-width="100px" min-height="100px" position="relative" top="20px">
 						<Text margin="0px 0px 0px 0px" font="--headline4" color="#ffffff">
-							Homyatol
+							Vic
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="--lead" color="#b9b9b9">
-							130 bonds
+							20 bonds
 						</Text>
 						<Text margin="0px 0px 0px 0px" font="--textBase" color="#b9b9b9">
 							Floor price: 5 UST
@@ -546,7 +546,7 @@ export default (() => {
 								Overcollaterlized
 							</Text>
 							<Text margin="0px 0px 0px 0px">
-								Maturity date: 08.21.2023
+								Maturity date: 05.19.2023
 							</Text>
 						</List>
 					</Box>

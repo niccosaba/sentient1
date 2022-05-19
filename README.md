@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/niccosaba/sentient1/pulls">
+    <img src="https://badgen.net/github/prs/niccosaba/sentient1" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/niccosaba/sentient1" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">

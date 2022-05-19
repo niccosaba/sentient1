@@ -238,7 +238,7 @@ export default (() => {
 					text-align="center"
 					max-width="480px"
 				>
-					We're offering artists and content creators all over the world the possibility to leverege their monthly revenues. Issue your bond today, get funded and repay your investors each month.
+					We're offering artists and content creators all over the world the possibility to leverage their monthly revenues. Issue your bond today, get funded, and repay your investors each month.
 				</Text>
 			</Box>
 			<Box display="grid" grid-template-columns="repeat(3, 1fr)" grid-gap="32px 4%" md-grid-template-columns="1fr">
@@ -299,7 +299,7 @@ export default (() => {
 						lg-text-align="left"
 						flex="1 0 auto"
 					>
-						Mint bonds on your future revenues. Define an expiry date, estimate earnings and sell them on the open market.{" "}
+						Mint bonds on your future revenues. Define a maturity date, estimate earnings, and sell them on the open market.{" "}
 					</Text>
 				</Box>
 				<Box
@@ -400,7 +400,7 @@ export default (() => {
 					color="--indigo"
 					sm-font="normal 800 30px/1.2 &quot;Inter&quot;, sans-serif"
 				>
-					Get rid of the paperworks.
+					Get rid of the paperwork.
 				</Text>
 				<Text
 					font="--base"
@@ -410,7 +410,7 @@ export default (() => {
 					margin="0px 0px 25px 0px"
 					color="--dark"
 				>
-					By getting the verified badge you can issue verified bonds that investor are more keen to buy. We'll take care of all the legal aspects and protect both you and your investors.
+					By getting the verified badge you can issue verified bonds that investors are more keen to buy. We'll take care of all the legal aspects and protect both you and your investors.
 					<br />
 					Funds on-chain, papers off-chain.{"   "}
 				</Text>
@@ -729,7 +729,7 @@ export default (() => {
 					Mind Against
 				</Text>
 				<Text margin="0px 0px 0px 0px" font="--textBase" color="--darkL1" lg-font="400 14px/1.6 &quot;Inter&quot;, sans-serif">
-					International Djs and producers with more than 300k monthly plays on Spotify.
+					International DJs and producers with more than 300k monthly plays on Spotify.
 				</Text>
 			</Box>
 			<Hr
@@ -780,7 +780,7 @@ export default (() => {
 					Homyatol
 				</Text>
 				<Text margin="0px 0px 0px 0px" font="--textBase" color="--darkL1" lg-font="400 14px/1.6 &quot;Inter&quot;, sans-serif">
-					Italian youtuber with +500k subscriber on his Youtube channel.
+					Italian youtuber with +500k subscribers on his Youtube channel.
 				</Text>
 			</Box>
 			<Box
